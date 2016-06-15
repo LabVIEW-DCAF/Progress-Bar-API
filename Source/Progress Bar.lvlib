@@ -21,6 +21,7 @@
 			<Item Name="Set BG Color.vi" Type="VI" URL="../API/Set BG Color.vi"/>
 			<Item Name="Update Progress Bar.vi" Type="VI" URL="../API/Update Progress Bar.vi"/>
 			<Item Name="Check For Existing.vi" Type="VI" URL="../API/Check For Existing.vi"/>
+			<Item Name="Set Timeout.vi" Type="VI" URL="../API/Set Timeout.vi"/>
 		</Item>
 		<Item Name="Action Text" Type="Folder">
 			<Item Name="Set Action Text Color.vi" Type="VI" URL="../API/Set Action Text Color.vi"/>
@@ -32,7 +33,6 @@
 		</Item>
 		<Item Name="Set All.vi" Type="VI" URL="../API/Set All.vi"/>
 		<Item Name="API Property Template.vit" Type="VI" URL="../API/API Property Template.vit"/>
-		<Item Name="Set Timeout.vi" Type="VI" URL="../API/Set Timeout.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Progress Bar Properties.ctl" Type="VI" URL="../Controls/Progress Bar Properties.ctl"/>
