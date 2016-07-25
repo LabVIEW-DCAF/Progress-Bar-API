@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-04-13 09:39:30" Modified_Date="2016-07-25 14:41:49" Creator="Tanner" Comments="" ID="78cdabc109f58bdd6d9fa875216812d3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-04-13 09:39:30" Modified_Date="2016-07-25 17:08:26" Creator="Tanner" Comments="" ID="539657620f1bb58a1a71229c8ec1d5a4">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_progress_bar</Package_File_Name>
     <Library_Version>1.0.0.8</Library_Version>
@@ -38,7 +38,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;vi.lib&gt;\NI\Progress Bar</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -303,7 +303,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>28D3F2220BF1E663B315395CBE937C19</GUID>
+      <GUID>16C8437E3E223D8FF344CBFB3D41F0A6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -450,7 +450,7 @@
         <Path>API\Set Timeout.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>23B7E82E0359DC47A483C864F5A90F3A</GUID>
+      <GUID>CEBC8A5FB9CBE8412AD003D807DAA5D0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -485,7 +485,7 @@
         <Path>API\Check For Existing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>223AF9ECFAD473079078B316C796D069</GUID>
+      <GUID>C0EA4585E3C175AA24A8B3C44D7D8233</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -520,7 +520,7 @@
         <Path>examples\Basic Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>366C74CCB907B498C100C5813325C630</GUID>
+      <GUID>E20AE06E72D86FBDBCF824459757D56B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
