@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-04-13 09:39:30" Modified_Date="2017-04-26 15:49:14" Creator="Tanner" Comments="" ID="02f8c332451fc601afce1ab675a03e95">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-04-13 09:39:30" Modified_Date="2017-04-26 16:08:10" Creator="Tanner" Comments="" ID="44730c2b97bccdc55d339b6f13dc9da5">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_progress_bar</Package_File_Name>
-    <Library_Version>1.1.0.8</Library_Version>
+    <Library_Version>1.1.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -303,7 +303,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>9EA675FE3898398379ED08F06D78FD19</GUID>
+      <GUID>3E753179A5529329B5EB99424ED6C92C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -450,7 +450,7 @@
         <Path>API\Set Timeout.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A635E14EA0C94C088F5EE3FA22DE04B</GUID>
+      <GUID>4925AA2DCD199DC3C56CE8768CA5CD8B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -485,7 +485,7 @@
         <Path>API\Check For Existing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2793CEA899972D0E546101DA9D85A1B</GUID>
+      <GUID>4173E2D03F97E504CF1A12CDB519BA53</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -520,7 +520,7 @@
         <Path>examples\Basic Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62F5005B8B6634515E5A25FF6B34AD32</GUID>
+      <GUID>FFD052EFB2EA85D65B0D76CCFD0D17FA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
